@@ -1,0 +1,6 @@
+F:\Visual Studio\Projects\baiduDownloader\baiduDownloader\bin\Debug\baiduDownloader.exe.config
+F:\Visual Studio\Projects\baiduDownloader\baiduDownloader\bin\Debug\baiduDownloader.exe
+F:\Visual Studio\Projects\baiduDownloader\baiduDownloader\bin\Debug\baiduDownloader.pdb
+F:\Visual Studio\Projects\baiduDownloader\baiduDownloader\obj\Debug\baiduDownloader.exe
+F:\Visual Studio\Projects\baiduDownloader\baiduDownloader\obj\Debug\baiduDownloader.pdb
+F:\Visual Studio\Projects\baiduDownloader\baiduDownloader\obj\Debug\baiduDownloader.csprojResolveAssemblyReference.cache
